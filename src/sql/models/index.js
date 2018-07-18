@@ -17,3 +17,8 @@ const sequelize = new Sequelize(
     }
   }
 );
+
+sequelize
+  .authenticate()
+  .then(() => console.log('connected to DB successfully'))
+  .catch(error => console.log('unable to connect to DB', error));

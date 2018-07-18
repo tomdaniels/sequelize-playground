@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-playground",
+  "version": "0.0.0",
+  "description": "sequelize playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomdaniels/sequelize-playground.git"
+  },
+  "author": "Tom Daniels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomdaniels/sequelize-playground/issues"
+  },
+  "homepage": "https://github.com/tomdaniels/sequelize-playground#readme"
+}

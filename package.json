@@ -4,6 +4,8 @@
   "description": "sequelize playground",
   "main": "index.js",
   "scripts": {
+    "start": "node src/sql/index.js",
+    "watch": "nodemon src/sql/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

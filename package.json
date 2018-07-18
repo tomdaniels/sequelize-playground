@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tomdaniels/sequelize-playground#readme",
   "dependencies": {
+    "config": "^1.30.0",
     "mysql2": "^1.5.3",
     "sequelize": "^4.38.0"
   }
